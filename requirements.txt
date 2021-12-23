@@ -1,0 +1,4 @@
+# Libraries needed for the program to work:
+
+# Graphics and Visualization
+pygame
